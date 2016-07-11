@@ -1,0 +1,33 @@
+{
+    "name": "linkIt",
+    "title": "LinkIt jQuery Plugin",
+    "description": "Simple plugin to convert any element into a link",
+    "keywords": [
+        "link",
+        "html",
+		"content"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Denis Thibeault",
+        "url": "http://techguywebsolutions.com"
+    },
+    "maintainers": [
+        {
+            "name": "Denis Thibeault",
+            "email": "Denis.Thibeaul@pb.com",
+            "url": "http://techguywebsolutions.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/de801th/jquery.link_It_DT/LICENSE.txt"
+        }
+    ],
+    "homepage": "https://github.com/de801th/jquery.link_It_DT",
+    "docs": "https://github.com/de801th/jquery.link_It_DT",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
