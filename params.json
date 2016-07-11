@@ -1,6 +1,6 @@
 {
   "name": "J Query Link a New Web Page",
   "tagline": "Simple J Query plugin that allows you to attach a link to any element",
-  "body": "# [httts://www.test.com](httts://www.test.com)Try this out and let me know if it works Denis K.",
+  "body": "# Try this out and let me know if it works Denis K.\r\n[Click me](htts://www.test.com)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
